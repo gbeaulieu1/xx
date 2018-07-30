@@ -2,7 +2,7 @@
 
 Group | Subgroup | Label |
 --- | --- | ---
-Priority Level | | ![example label](https://labl.es/svg?text=priority-%20critical&bgcolor=cc0000) ![example label](https://labl.es/svg?text=priority-%20high&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority-%20low&bgcolor=ffb3b3) 
+Priority Level | | ![example label](https://labl.es/svg?text=priority-%20critical&bgcolor=cc0000) ![example label](https://labl.es/svg?text=priority-%20high&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority-%20low&bgcolor=ff6666) 
 Status | | ![example label](https://labl.es/svg?text=blocked&bgcolor=4a86e8) ![example label](https://labl.es/svg?text=blocker&bgcolor=219eff) ![example label](https://labl.es/svg?text=stalled&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=question&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=needs%20revision&bgcolor=bae9ff)  ![example label](https://labl.es/svg?text=needs%20estimate&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=has%20workaround&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=changes%20requested&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=duplicate&bgcolor=bae9ff)
 Work Type | Front-end | ![example label](https://labl.es/svg?text=pattern&bgcolor=ffcc00) ![example label](https://labl.es/svg?text=theming&bgcolor=ffcc00)
 Work Type | Back-end | ![example label](https://labl.es/svg?text=migration&bgcolor=ffeb99) ![example label](https://labl.es/svg?text=drupal&bgcolor=ffeb99)
