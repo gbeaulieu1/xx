@@ -9,8 +9,8 @@ Work Type | Back-end | ![example label](https://labl.es/svg?text=migration&bgcol
 Work Type | Design | ![example label](https://labl.es/svg?text=UX/design&bgcolor=f8ff84)
 Work Type | Content | ![example label](https://labl.es/svg?text=content&bgcolor=ffeb6d) ![example label](https://labl.es/svg?text=multilingual&bgcolor=ffeb6d) ![example label](https://labl.es/svg?text=post-migration&bgcolor=ffeb6d)
 Work Type | Other | ![example label](https://labl.es/svg?text=documentation&bgcolor=ffdd00)
-DevOps | | ![example label](https://labl.es/svg?text=deployment&bgcolor=ff9900) ![example label](https://labl.es/svg?text=needs%20manuel%20deployment&bgcolor=ff9900) ![example label](https://labl.es/svg?text=hotfix&bgcolor=ff9900)
-Planning | | ![example label](https://labl.es/svg?text=epic&bgcolor=ffa64d) ![example label](https://labl.es/svg?text=sprint%20planning&bgcolor=ffa64d) ![example label](https://labl.es/svg?text=sprint%20retrospective&bgcolor=ffa64d) ![example label](https://labl.es/svg?text=user%20story&bgcolor=ffa64d)
+DevOps | | ![example label](https://labl.es/svg?text=deployment&bgcolor=ffa64d) ![example label](https://labl.es/svg?text=needs%20manuel%20deployment&bgcolor=ffa64d) ![example label](https://labl.es/svg?text=hotfix&bgcolor=ffa64d)
+Planning | | ![example label](https://labl.es/svg?text=epic&bgcolor=e684ad) ![example label](https://labl.es/svg?text=sprint%20planning&bgcolor=e684ad) ![example label](https://labl.es/svg?text=sprint%20retrospective&bgcolor=e684ad) ![example label](https://labl.es/svg?text=user%20story&bgcolor=e684ad)
 Supplementary | | ![example label](https://labl.es/svg?text=security&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=SEO&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=social&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=translation&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=performance&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=ie11&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=maintenance%20program&bgcolor=bae9ff) ![example label](https://labl.es/svg?text=discovery&bgcolor=bae9ff)
 
 
