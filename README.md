@@ -1,9 +1,9 @@
-# Proposed GitHub Labels
+# Intralinks Issue Label Guide
 
 Group | Subgroup | Label |
 --- | --- | ---
 Priority Level | | ![example label](https://labl.es/svg?text=priority-%20critical&bgcolor=cc0000) ![example label](https://labl.es/svg?text=priority-%20high&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority-%20low&bgcolor=ffb3b3)
-Status | | ![example label](https://labl.es/svg?text=blocked&bgcolor=3a2a9c) ![example label](https://labl.es/svg?text=blocker&bgcolor=3a2a9c) ![example label](https://labl.es/svg?text=stalled&bgcolor=1155cc) ![example label](https://labl.es/svg?text=question&bgcolor=1155cc) ![example label](https://labl.es/svg?text=needs%20revision&bgcolor=1155cc)  ![example label](https://labl.es/svg?text=needs%20estimate&bgcolor=1155cc) ![example label](https://labl.es/svg?text=has%20workaround&bgcolor=1155cc) ![example label](https://labl.es/svg?text=changes%requested&bgcolor=1155cc) ![example label](https://labl.es/svg?text=duplicate&bgcolor=1155cc)
+Status | | ![example label](https://labl.es/svg?text=blocked&bgcolor=3a2a9c) ![example label](https://labl.es/svg?text=blocker&bgcolor=3a2a9c) ![example label](https://labl.es/svg?text=stalled&bgcolor=1155cc) ![example label](https://labl.es/svg?text=question&bgcolor=1155cc) ![example label](https://labl.es/svg?text=needs%20revision&bgcolor=1155cc)  ![example label](https://labl.es/svg?text=needs%20estimate&bgcolor=1155cc) ![example label](https://labl.es/svg?text=has%20workaround&bgcolor=1155cc) ![example label](https://labl.es/svg?text=changes%20requested&bgcolor=1155cc) ![example label](https://labl.es/svg?text=duplicate&bgcolor=1155cc)
 Work Type | Front-end | ![example label](https://labl.es/svg?text=pattern&bgcolor=ffcc00) ![example label](https://labl.es/svg?text=theming&bgcolor=ffcc00)
 Work Type | Back-end | ![example label](https://labl.es/svg?text=migration&bgcolor=ffeb99) ![example label](https://labl.es/svg?text=drupal&bgcolor=ffeb99)
 Work Type | Design | ![example label](https://labl.es/svg?text=UX/design&bgcolor=ffd9b3)
